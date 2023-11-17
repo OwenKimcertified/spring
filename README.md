@@ -1,7 +1,9 @@
 ### JPA (standard of ORM. Java.)
 
 Entity manager factory (app = 1ea)
-
+```console
+j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+```
 Entity manager => DB task (Entity)
 
 persist Entity
@@ -26,3 +28,4 @@ Hibernate:
         update_time datetime(6),
         primary key (item_id)
     ) engine=InnoDB
+
