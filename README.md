@@ -2,7 +2,9 @@
 
 Entity manager factory (app = 1ea)
 ```console
+
 Console.Log
+
 j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
 ```
 Entity manager => DB task (Entity)
