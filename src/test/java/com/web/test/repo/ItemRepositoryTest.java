@@ -86,4 +86,4 @@ class ItemRepositoryTest {
 // 런타임 시점 자바의 Dynamic Proxy를 이용해 객체를 동적으로 생성.
 // DAO와 XML 파일에 쿼리문을 작성하지 않아도 됨.
 
-//JPA가 내부적으로 사용하는 규칙에 따라 메서드 이름을 분석할 때 itemDetail로 인식하는 문제 (대소문자)
+//JPA가 내부적으로 사용하는 규칙에 따라 메서드 이름을 분석할 때 itemDetail로 인식하는 문제 (대소문자) 왜지?

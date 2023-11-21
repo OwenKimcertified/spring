@@ -31,7 +31,7 @@ public class Items {
 
     @Lob
     @Column(nullable = false)
-    private String itemDetail;
+    private String itemDetail; //change (snippet err)
 
     @Enumerated(EnumType.STRING)
     private ItemStatus ItemStatus; // sold out or not
