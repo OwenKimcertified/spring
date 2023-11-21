@@ -27,11 +27,11 @@ public class Items {
     private int price;
 
     @Column(nullable = false)
-    private int how_many;
+    private int HowMany;
 
     @Lob
     @Column(nullable = false)
-    private String item_detail;
+    private String itemDetail;
 
     @Enumerated(EnumType.STRING)
     private ItemStatus ItemStatus; // sold out or not
