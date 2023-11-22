@@ -38,3 +38,6 @@ Hibernate:
 JPA snippet And, OR 
 
 names according to JPA's rule.   
+
+### API request
+web crawling data -XGET, http request
