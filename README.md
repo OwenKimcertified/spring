@@ -41,3 +41,5 @@ names according to JPA's rule.
 
 ### API request
 web crawling data -XGET, http request
+
+routing => /api/naver/product0~10/
