@@ -43,3 +43,7 @@ names according to JPA's rule.
 web crawling data -XGET, http request
 
 routing => /api/naver/product0~10/
+
+### Gradle version 
+
+branch test2(gradle), test(mvn)
