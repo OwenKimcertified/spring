@@ -35,6 +35,8 @@ Hibernate:
 
 ### test branch 
 
+Junit
+
 JPA snippet And, OR 
 
 names according to JPA's rule.   
