@@ -37,7 +37,7 @@ Hibernate:
 
 Junit
 
-JPA snippet And, OR 
+JPA snippet And, OR, @OnetoMany ManytoOne
 
 names according to JPA's rule.   
 
