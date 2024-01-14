@@ -57,3 +57,5 @@ branch test2(gradle), test(mvn)
 ### H2 DB
 
 ### Sync Async
+
+### OAuth
