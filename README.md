@@ -59,3 +59,5 @@ branch test2(gradle), test(mvn)
 ### Sync Async
 
 ### OAuth
+
+### kafka streams
