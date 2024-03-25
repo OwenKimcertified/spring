@@ -65,3 +65,5 @@ branch test2(gradle), test(mvn)
 ### Zero-downtime
 
 ### Annotation
+
+### 수집기 50 %
