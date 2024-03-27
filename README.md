@@ -66,4 +66,4 @@ branch test2(gradle), test(mvn)
 
 ### Annotation
 
-### 수집기 50 %
+### 수집기 60 %
