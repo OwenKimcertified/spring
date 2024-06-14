@@ -50,20 +50,9 @@ routing => /api/naver/product0~10/
 
 branch test2(gradle), test(mvn)
 
-### What is Lombok's @Getter, @Setter and this.~
 
-### MV
+### 
 
-### H2 DB
+IoC, DI(Constructor, argument)
 
-### Sync Async
 
-### OAuth
-
-### kafka streams
-
-### Zero-downtime
-
-### Annotation
-
-### 수집기 60 % ... -> 20 %
