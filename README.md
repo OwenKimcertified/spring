@@ -55,4 +55,4 @@ branch test2(gradle), test(mvn)
 
 IoC, DI(Constructor, argument)
 
-
+@Transactional, repository.save(Entity) -> change Entity -> DTO, DTO -> Entity
